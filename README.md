@@ -26,3 +26,6 @@ If you just want to chat, write me, I won't mind.\
 You can reach me via:\
 Telegram: [@FonovAD](https://web.telegram.org/k/#@FonovAD) \
 VK: [fonov_ad](https://vk.com/fonov_ad)
+
+![FonovAD's Stats](https://github-readme-stats.vercel.app/api?username=FonovAD&theme=default&show_icons=true&hide_border=true&count_private=true)
+![FonovAD's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FonovAD&theme=default&show_icons=true&hide_border=true&layout=compact)
