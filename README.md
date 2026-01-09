@@ -16,16 +16,12 @@ Here are some ideas to get you started:
 -->
 
 **A little about me:**
-- I'm a Golang/Python Software Developer.
-- According to my mom, a good person. 
+I'm a Golang/Java Software Developer.
 
-I'm also a third-year student majoring in Control and Informatics in Technical Systems. \
-I’d appreciate it if you could review my projects and leave a comment. \
+I'm also a fourth-year student majoring in Control and Informatics in Technical Systems. \
+I would appreciate it if you would review my projects and comment. \
 
 If you just want to chat, write me, I won't mind.\
 You can reach me via:\
 Telegram: [@FonovAD](https://web.telegram.org/k/#@FonovAD) \
 VK: [fonov_ad](https://vk.com/fonov_ad)
-
-![FonovAD's Stats](https://github-readme-stats.vercel.app/api?username=FonovAD&theme=default&show_icons=true&hide_border=true&count_private=true)
-![FonovAD's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FonovAD&theme=default&show_icons=true&hide_border=true&layout=compact)
