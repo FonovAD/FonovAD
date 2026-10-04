@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 **A little about me:**
-I'm a Golang/Java Software Developer.
-I currently work as a Golang developer at Ozon Tech on the ML moderation platform.
+I'm a Golang/Java Software Developer. \
+I work as a Golang developer in the ML-moderation group, in the “ML Moderation Tools” team.
 
 I'm also a first-year student Software Sngineering (HSE). \
 I would appreciate it if you would review my projects and comment. \
