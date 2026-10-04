@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 **A little about me:**
 I'm a Golang/Java Software Developer.
+I currently work as a Golang developer at Ozon Tech on the ML moderation platform.
 
-I'm also a fourth-year student majoring in Control and Informatics in Technical Systems. \
+I'm also a first-year student Software Sngineering (HSE, ). \
 I would appreciate it if you would review my projects and comment. \
 
 If you just want to chat, write me, I won't mind.\
